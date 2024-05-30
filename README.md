@@ -1,3 +1,3 @@
 # Projekt Zaliczeniowy
 
-przykładowy projekt.
+To jest przykładowy projekt.
