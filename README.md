@@ -1,0 +1,3 @@
+# Projekt Zaliczeniowy
+
+przykładowy projekt.
